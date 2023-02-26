@@ -1,0 +1,15 @@
+C:\ДЗ.ГБ\Homework_4seminar\task27\bin\Debug\net6.0\task27.exe
+C:\ДЗ.ГБ\Homework_4seminar\task27\bin\Debug\net6.0\task27.deps.json
+C:\ДЗ.ГБ\Homework_4seminar\task27\bin\Debug\net6.0\task27.runtimeconfig.json
+C:\ДЗ.ГБ\Homework_4seminar\task27\bin\Debug\net6.0\task27.dll
+C:\ДЗ.ГБ\Homework_4seminar\task27\bin\Debug\net6.0\task27.pdb
+C:\ДЗ.ГБ\Homework_4seminar\task27\obj\Debug\net6.0\task27.csproj.AssemblyReference.cache
+C:\ДЗ.ГБ\Homework_4seminar\task27\obj\Debug\net6.0\task27.GeneratedMSBuildEditorConfig.editorconfig
+C:\ДЗ.ГБ\Homework_4seminar\task27\obj\Debug\net6.0\task27.AssemblyInfoInputs.cache
+C:\ДЗ.ГБ\Homework_4seminar\task27\obj\Debug\net6.0\task27.AssemblyInfo.cs
+C:\ДЗ.ГБ\Homework_4seminar\task27\obj\Debug\net6.0\task27.csproj.CoreCompileInputs.cache
+C:\ДЗ.ГБ\Homework_4seminar\task27\obj\Debug\net6.0\task27.dll
+C:\ДЗ.ГБ\Homework_4seminar\task27\obj\Debug\net6.0\refint\task27.dll
+C:\ДЗ.ГБ\Homework_4seminar\task27\obj\Debug\net6.0\task27.pdb
+C:\ДЗ.ГБ\Homework_4seminar\task27\obj\Debug\net6.0\task27.genruntimeconfig.cache
+C:\ДЗ.ГБ\Homework_4seminar\task27\obj\Debug\net6.0\ref\task27.dll
